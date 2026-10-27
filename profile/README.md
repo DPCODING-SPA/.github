@@ -52,9 +52,9 @@ Proyectos en producción (código cliente privado por confidencialidad):
 | **Centro Cristiano Plenitud** | Sitio institucional | [ccplenitud.cl](https://ccplenitud.cl) |
 | **ECHH** | Sitio corporativo | [echh.cl](https://echh.cl) |
 | **Domotex Spa** | Ecommerce | [domotexspa.cl](https://domotexspa.cl) |
-| **Español Osorno** | Sitio + abonados | Club Deportivo Español |
+| **Español Osorno** | Sitio + abonados | [espanolosorno.cl](https://espanolosorno.cl) |
 | **TuCabaña / Reservas** | Sistema de reservas | Interno / cliente |
-| **Mesa de Ayuda · Finanzas · Leads** | Suites internas DP | Operación DP Coding |
+| **Mesa de Ayuda · Finanzas · Leads** | Suites internas DP | [mesadeayuda.dpcoding.cl](https://mesadeayuda.dpcoding.cl) · [finanzas.dpcoding.cl](https://finanzas.dpcoding.cl) · [leads.dpcoding.cl](https://leads.dpcoding.cl) |
 
 ## Cómo trabajamos
 
