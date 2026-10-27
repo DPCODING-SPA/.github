@@ -56,6 +56,15 @@ Proyectos en producción (código cliente privado por confidencialidad):
 | **TuCabaña / Reservas** | Sistema de reservas | Interno / cliente |
 | **Mesa de Ayuda · Finanzas · Leads** | Suites internas DP | [mesadeayuda.dpcoding.cl](https://mesadeayuda.dpcoding.cl) · [finanzas.dpcoding.cl](https://finanzas.dpcoding.cl) · [leads.dpcoding.cl](https://leads.dpcoding.cl) |
 
+## Público en GitHub
+
+| Repo | Para qué |
+| --- | --- |
+| [`.github`](https://github.com/DPCODING-SPA/.github) | Perfil de la organización |
+| [`starter-vite-tailwind`](https://github.com/DPCODING-SPA/starter-vite-tailwind) | Starter público Vite + React + Tailwind |
+
+El resto del código de clientes permanece **privado** por confidencialidad.
+
 ## Cómo trabajamos
 
 1. **Descubrimiento** — objetivo de negocio, alcance y prioridades  
